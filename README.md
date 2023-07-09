@@ -21,7 +21,7 @@
 
 ## Sobre a inscrição
 
-A Santander Coders tem sido amplamente divulgada em diversos meios de comunicação, incluindo redes sociais, sites de notícias e grupos de WhatsApp, como uma excelente oportunidade de capacitação profissional para aqueles que almejam ingressar no mercado de trabalho na área de tecnologia. É crucial estar atento ao período de inscrições, pois na última edição do programa, as inscrições ocorreram entre 01/03/2023 e 01/05/2023.
+O Santander Coders tem sido amplamente divulgado em diversos meios de comunicação, incluindo redes sociais, sites de notícias e grupos de WhatsApp, como uma excelente oportunidade de capacitação profissional para aqueles que almejam ingressar no mercado de trabalho na área de tecnologia. É crucial estar atento ao período de inscrições. Na última edição do programa, as inscrições ocorreram entre 01/03/2023 e 01/05/2023.
 
 ## Sobre o teste de conhecimento
 
