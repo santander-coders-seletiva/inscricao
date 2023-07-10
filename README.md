@@ -100,6 +100,24 @@ Na data informada, você receberá um e-mail informando que você foi aprovado p
 
 Não esqueça de confirmar a sua participação na próxima etapa do processo seletivo. Caso você não confirme a sua participação, você será desclassificado.
 
+## Como contribuir
+
+Caso você tenha alguma dica ou sugestão que possa agregar valor a esse repositório, fique à vontade para contribuir. Basta fazer um fork do repositório, fazer as alterações e enviar um pull request.
+
+```bash
+# Clone o repositório
+git clone
+
+# Crie uma branch para fazer suas alterações
+git checkout -b feature/sua-feature
+
+# Faça o commit das suas alterações
+git commit -m 'feat: Minha nova feature'
+
+# Faça o push das suas alterações para o repositório remoto
+git push origin feature/sua-feature
+```
+
 ## Licença
 
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
